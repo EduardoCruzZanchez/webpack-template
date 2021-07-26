@@ -1,5 +1,13 @@
-# Webpack configurado
+# Webpack Tmplate
 
-Para usar este repositorio, deberán ejecutar el comando de ```npm install```
+Este es el cascaron de configuracion basica de webpack
+### Notas:
+Para usar este repositorio, deberán ejecutar el comando de:
+ ```
+ npm install
+ ```
 
-Pero esto lo veremos en la siguiente sección
+y para construir el build ingresa:
+```
+npm run build
+```
